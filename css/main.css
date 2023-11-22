@@ -336,6 +336,16 @@ small {
   justify-content: space-between;
 }
 
+.legal .container p {
+  margin-top: 2rem;
+  padding: 2rem 5rem;
+  color: #222;
+}
+
+footer {
+  background: url(/images/background0.jpg);
+}
+
 @media screen and (max-width: 1180px) {
   .cookies .container {
     display: block;
@@ -840,7 +850,7 @@ small {
 }
 
 .fotos {
-  background: url("../images/background.jpg") center/cover no-repeat;
+  background: url("../images/background0.jpg") center/cover no-repeat;
   padding: 120px 0;
 }
 
@@ -1454,5 +1464,9 @@ small {
 .localizacao__map article div a:last-of-type {
   background: #16c2f2;
   color: #ffffff;
+}
+
+footer {
+  background: url(/images/background0.jpg);
 }
 /*# sourceMappingURL=main.css.map */
