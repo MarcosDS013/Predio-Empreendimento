@@ -1,0 +1,11 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#4E6780"/>
+<path d="M36 25.1668V19.3335" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path d="M42.6667 25.1668V21.8335" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path d="M29.3333 25.1668V21.8335" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path d="M52.6667 30.1665H19.3333C19.3333 34.8212 22.3148 38.9188 26.8333 41.3038C29.4632 42.6919 32.6137 43.4998 36 43.4998C39.3863 43.4998 42.5368 42.6919 45.1667 41.3038C49.6852 38.9188 52.6667 34.8212 52.6667 30.1665Z" fill="white" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path d="M24.7223 48.5H47.2777" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path d="M26.8333 41.3037L23.5 52.6665" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path d="M45.1667 41.3037L48.5 52.6665" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel"/>
+<path d="M32.6667 36.8335H39.3333" stroke="#4E6780" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel"/>
+</svg>
